@@ -1,1 +1,1 @@
-# CapstoneMain
+# Little Lemon Food Ordering App
